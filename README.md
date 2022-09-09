@@ -23,5 +23,4 @@ Steps of implementation
 4. Once all the processes have been arrived, we can schedule them based on their priority.
 
 ### Round Robin Scheduling Algorithm
-Round Robin Scheduling algorithm is a peemptive CPU scheduling algorithm which executes each process for a certain fixed time period known as time qunatum, the tie breaker in round robin scheduling algorithm is smallest process ID first. 
-
+Round Robin Scheduling algorithm is a peemptive CPU scheduling algorithm which executes each process for a certain fixed time period known as time qunatum, the tie breaker in round robin scheduling algorithm is smaller process ID first.
